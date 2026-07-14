@@ -20,7 +20,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-TELEGRAM_BOT_TOKEN = "8790930027:AAFVZYphCcoB8L4h_aE8Fs7F5TsiK5fnflk"
+TELEGRAM_BOT_TOKEN = "8419503474:AAEQxFt78ot89_c8i3lhqYNjL4Dk8sV3s4s"
 
 UIDAI_PROXY = "http://adew5fgqpv09_country-IN:CGnPrwvFznbB3wex@vr2-resi.proxy.arealproxy.com:1337"
 
@@ -399,10 +399,10 @@ class AadhaarBot:
 
 bot = AadhaarBot()
 
-DIVIDER         = "━━━━━━━━━━━━━━━━━━━━━━━"
-BOT_NAME        = "✜ADHAR BOT"
-OWNER_ID        = 7807515642
-OWNER_USERNAME  = "@Samuraiwooo"
+DIVIDER         = "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+BOT_NAME        = "✜ N O B I T A  A D H A R  B O T"
+OWNER_ID        = 8734310359
+OWNER_USERNAME  = "@UnknownXNobita"
 SESSION_TIMEOUT = 180
 DATA_FILE       = "users.json"
 
@@ -412,8 +412,8 @@ PLANS = {
     '50':  {'credits': 50,  'price': '$50',  'lifetime': False},
     '100': {'credits': 0,   'price': '$100', 'lifetime': True},
 }
-CHANNEL_USERNAME = "@Semsepiol"
-CHANNEL_LINK     = "https://t.me/Semsepiol"
+CHANNEL_USERNAME = "@UNKNOWNXNOBITA"
+CHANNEL_LINK     = "https://telegram.me/+O1syQDb2jFQ4YTRl"
 
 _data_lock = threading.Lock()
 
